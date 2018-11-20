@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "746128339558",
+    "firebase_url": "https://reportiify.firebaseio.com",
+    "project_id": "reportiify",
+    "storage_bucket": "reportiify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746128339558:android:540254586126cde3",
+        "android_client_info": {
+          "package_name": "com.example.antho.reportiify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746128339558-08m4buckr61bj9cq4livna3mh6j4ft1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.antho.reportiify",
+            "certificate_hash": "9ce9a9ab116644cd5a87eb6cdacb68c1d08d0573"
+          }
+        },
+        {
+          "client_id": "746128339558-omu90k3ai8cuttigmd7i4c71uk5rkhi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKJcJNzgu0wX7B3ZeVuD5jZ--aQRarRAE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746128339558-omu90k3ai8cuttigmd7i4c71uk5rkhi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

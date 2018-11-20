@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="es">
+    <string name="app_name">Reportiify</string>
+    <string name="PathDataReference">Reports</string>
+    <string name="email_id">Correo electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="failed">Autenticación fallida</string>
+    <!--<string name="image">image</string>-->
+    <string name="create_a_new_account">¿Aun no te has registrado? Registrate</string>
+    <string name="signup">Crear cuenta</string>
+    <string name="go_to_login">¿Ya posees una cuenta? Inicia sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="title">Titulo</string>
+    <string name="addReport">Agregar nuevo reporte</string>
+    <string name="desc">Descripción</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="add">Añadir</string>
+    <string name="close">Cerrar</string>
+    <string name="report">Nuevo Reporte</string>
+    <string name="loading">Cargando localización...</string>
+</resources>
